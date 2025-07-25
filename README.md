@@ -34,7 +34,7 @@ It shows how to use **machine learning models** to detect attacks in network tra
 
 ## 📁 Files Included
 
-- `DMML_Dataset2.ipynb` – The main notebook with all code and results
+- `DMML_CIC-IDS2017.ipynb` – The main notebook with all code and results
 
 ---
 
